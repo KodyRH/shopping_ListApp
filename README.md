@@ -3,6 +3,7 @@ Description: This App serves as the foundation for a bigger effort called "Pantr
 (Currently implementing V-1.0)  
 
 v-1.0 - Implement Basic Shopping List abilities (adding, deleting, editing items) - ETA 5/13/2025 
+
 v-2.0 - Implement (OCR) - 6/14/2025
 
 
